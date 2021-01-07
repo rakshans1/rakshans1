@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Golang <img src="https://github.com/egonelbre/gophers/blob/master/vector/computer/music.svg" alt="golang" width="100" height="100">
+- 🌱 I’m currently learning ReScript <img src="https://rescript-lang.org/static/nav-logo@2x.png" alt="rescript" width="100" height="100">
 - 💬 Ask me about javascript, react, web development
 
 ![Languges's stats](https://github-readme-stats.rakshan.vercel.app/api/wakatime?username=rakshans1&stat=languages&custom_title=Languages&title_color=58a6ff&bg_color=0D1117&text_color=C3D1D9&hide_border=true)
