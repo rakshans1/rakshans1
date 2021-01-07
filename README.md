@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ReScript <img src="https://rescript-lang.org/static/nav-logo@2x.png" alt="rescript" width="100" height="100">
+- 🌱 I’m currently learning <img src="https://rescript-lang.org/static/nav-logo@2x.png" alt="rescript" width="16" height="16"> ReScript
 - 💬 Ask me about javascript, react, web development
 
 ![Languges's stats](https://github-readme-stats.rakshan.vercel.app/api/wakatime?username=rakshans1&stat=languages&custom_title=Languages&title_color=58a6ff&bg_color=0D1117&text_color=C3D1D9&hide_border=true)
