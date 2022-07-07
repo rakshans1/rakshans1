@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning <img src="https://rescript-lang.org/static/nav-logo@2x.png" alt="rescript" width="16" height="16"> ReScript
+- 🌱 I’m currently learning <img src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4" alt="elixir" width="16" height="16"> Elixir
 - 💬 Ask me about javascript, react, web development
 
 ![Languges's stats](https://github-readme-stats.rakshan.vercel.app/api/wakatime?username=rakshans1&stat=languages&custom_title=Languages&title_color=58a6ff&bg_color=0D1117&text_color=C3D1D9&hide_border=true)
